@@ -3,7 +3,7 @@
    ========================================================================== */
 @font-face {
     font-family: "IntelOneMono";
-    src: url("/assets/fonts/IntelOneMono-VariableFont_wght.ttf") format("truetype");
+    src: url("../fonts/IntelOneMono-VariableFont_wght.ttf") format("truetype");
     font-weight: normal;
 }
 
@@ -198,8 +198,26 @@ span {
 }
 
 .mundo:hover {
-    transform: rotate(360deg); /* Rotação suave sem exageros */
+    transform: rotate(360deg); 
+    }
+
+    /* Ajuste de espaço para o conteúdo não sumir embaixo do menu */
+body {
+    padding-top: 120px !important; 
 }
+
+/* Garante que o container central alinhe os textos */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #ffffff; /* Dá o fundo branco elegante para os blocos de texto */
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    }
+
+
+
 
 /* ==========================================================================
    RODAPÉ DO SISTEMA (FOOTER)

@@ -40,7 +40,7 @@ header {
 
 /* Painel Superior do Menu */
 .menu-navegacao {
-    background-color: #2e14d2; /* Fundo branco limpo para o menu */
+    background-color: #f0eff5; /* Fundo branco limpo para o menu */
     padding: 16px;
     border-bottom: 3px solid #2e7d32; /* Borda inferior verde escura espessa */
     position: fixed;
@@ -211,7 +211,7 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 30px;
-    background-color: #ffffff; /* Dá o fundo branco elegante para os blocos de texto */
+    background-color: #56e22f; /* Dá o fundo branco elegante para os blocos de texto */
     border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     }

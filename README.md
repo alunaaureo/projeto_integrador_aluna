@@ -9,15 +9,11 @@
 </p>
 
 ---
-
 ## 📌 Propósito do Trabalho
 
 Esta aplicação web nasceu com a missão de educar a comunidade feirense sobre o combate ao desperdício de água e a urgência do consumo consciente.
 
 Desenvolvido com foco em programação front-end, demonstro de forma prática como a mudança de hábitos diários consegue transformar a realidade ecológica do nosso planeta.
-
-
-
 
 ---
 

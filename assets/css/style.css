@@ -24,7 +24,7 @@ html {
 
 body {
     font-family: "Open Sans", sans-serif; 
-    color: #263238; /* Cinza grafite moderno *
+    color: #263238; /* Cinza grafite moderno */
     background-color: #a5d6a7 !important; 
     line-height: 1.65;
 }
@@ -175,7 +175,7 @@ span {
 }
 
 .acao-item {
-    background-color: #ffffff;
+    background-color: #bbf5ac;
     padding: 22px;
     border-radius: 10px;
     border-top: 5px solid #2e7d32;

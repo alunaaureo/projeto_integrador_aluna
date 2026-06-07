@@ -16,9 +16,6 @@ Esta aplicação web nasceu com a missão de educar a comunidade feirense sobre 
 
 Desenvolvido com foco em programação front-end, demonstro de forma prática como a mudança de hábitos diários consegue transformar a realidade ecológica do nosso planeta.
 
-
-
-
 ---
 
 ## 🎯 Metas Estratégicas

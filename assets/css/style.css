@@ -23,9 +23,9 @@ html {
 }
 
 body {
-    font-family: "Open Sans", sans-serif; /* Usando a fonte importada do seu HTML */
-    color: #263238; /* Cinza grafite moderno */
-    background-color: #a5d6a7 !important; /* Seu verde vivo e forte preferido */
+    font-family: "Open Sans", sans-serif; 
+    color: #263238; /* Cinza grafite moderno *
+    background-color: #a5d6a7 !important; 
     line-height: 1.65;
 }
 
